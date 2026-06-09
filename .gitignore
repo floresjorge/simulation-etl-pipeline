@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+*.pkl
+data/dogdog_*.db
+data/pipeline_prod.log
+.DS_Store
+.ipynb_checkpoints/
